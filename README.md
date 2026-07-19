@@ -4,6 +4,8 @@
 [![Downloads](https://img.shields.io/github/downloads/HSEV/retouch-releases/total)](https://github.com/HSEV/retouch-releases/releases)
 [![Platform](https://img.shields.io/badge/plateforme-windows-black)](https://github.com/HSEV/retouch-releases/releases/latest)
 [![Discord](https://img.shields.io/discord/1528217755474591835?label=discord&logo=discord&color=5865F2)](https://discord.gg/U63MHffDQX)
+
+
 <img width="1697" height="992" alt="image" src="https://github.com/user-attachments/assets/6d33829a-2ffe-4fe7-9a67-14c228405004" />
 
 
