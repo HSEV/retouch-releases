@@ -6,12 +6,14 @@
 [![Discord](https://img.shields.io/discord/1528217755474591835?label=discord&logo=discord&color=5865F2)](https://discord.gg/U63MHffDQX)
 
 
-<img width="1697" height="992" alt="image" src="https://github.com/user-attachments/assets/6d33829a-2ffe-4fe7-9a67-14c228405004" />
 
 
 **Retouch** est un launcher desktop qui te permet de jouer à **Dofus Touch** directement sur PC, sans émulateur Android.
 
 Ce dépôt sert uniquement à la **distribution des builds** de Retouch — c'est ici que tu trouveras toujours la dernière version à télécharger.
+
+
+<img width="1697" height="992" alt="image" src="https://github.com/user-attachments/assets/6d33829a-2ffe-4fe7-9a67-14c228405004" />
 
 ## Téléchargement
 
