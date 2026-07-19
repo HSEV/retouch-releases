@@ -3,7 +3,7 @@
 [![Release](https://img.shields.io/github/v/release/HSEV/retouch-releases?label=derni%C3%A8re%20version)](https://github.com/HSEV/retouch-releases/releases/latest)
 [![Downloads](https://img.shields.io/github/downloads/HSEV/retouch-releases/total)](https://github.com/HSEV/retouch-releases/releases)
 [![Platform](https://img.shields.io/badge/plateforme-windows-black)](https://github.com/HSEV/retouch-releases/releases/latest)
-[![Discord](https://img.shields.io/discord/0?label=discord&logo=discord&color=5865F2)](https://discord.gg/U63MHffDQX)
+[![Discord](https://img.shields.io/discord/1528217755474591835?label=discord&logo=discord&color=5865F2)](https://discord.gg/U63MHffDQX)
 
 **Retouch** est un launcher desktop qui te permet de jouer à **Dofus Touch** directement sur PC, sans émulateur Android.
 
