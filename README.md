@@ -13,12 +13,13 @@
 
 Ce dépôt sert uniquement à la **distribution des builds** de Retouch — c'est ici que tu trouveras toujours la dernière version à télécharger. Site officiel : **[retouch.blog](https://retouch.blog)**
 
-
-<img width="1697" height="992" alt="image" src="https://github.com/user-attachments/assets/6d33829a-2ffe-4fe7-9a67-14c228405004" />
-
 ## Téléchargement
 
 [![Télécharger Retouch](https://img.shields.io/badge/⬇️_Cliquez_ici_pour_t%C3%A9l%C3%A9charger-Retouch--Setup.exe-2ea44f?style=for-the-badge)](https://github.com/HSEV/retouch-releases/releases/download/v1.1.2/Retouch-1.1.2-Setup.exe)
+
+<img width="1697" height="992" alt="image" src="https://github.com/user-attachments/assets/6d33829a-2ffe-4fe7-9a67-14c228405004" />
+
+
 
 👉 **[Dernière version](https://github.com/HSEV/retouch-releases/releases/latest)**
 
