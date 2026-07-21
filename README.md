@@ -18,6 +18,8 @@ Ce dépôt sert uniquement à la **distribution des builds** de Retouch — c'es
 
 ## Téléchargement
 
+[![Télécharger Retouch](https://img.shields.io/badge/⬇️_Cliquez_ici_pour_t%C3%A9l%C3%A9charger-Retouch--Setup.exe-2ea44f?style=for-the-badge)](https://github.com/HSEV/retouch-releases/releases/download/v1.1.2/Retouch-1.1.2-Setup.exe)
+
 👉 **[Dernière version](https://github.com/HSEV/retouch-releases/releases/latest)**
 
 
