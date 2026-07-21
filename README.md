@@ -24,9 +24,6 @@ Ce dépôt sert uniquement à la **distribution des builds** de Retouch — c'es
 👉 **[Dernière version](https://github.com/HSEV/retouch-releases/releases/latest)**
 
 
-| Fichier | Usage |
-|---|---|
-| `Retouch-x.x.x-Setup.exe` | Installeur classique (choix du dossier d'installation, raccourcis). |
 
 > ⚠️ Les exécutables ne sont pas signés (pas de certificat payant) - Windows SmartScreen peut afficher un avertissement "éditeur inconnu" au premier lancement. C'est normal pour un projet indépendant : clique sur *Informations complémentaires* → *Exécuter quand même*.
 
