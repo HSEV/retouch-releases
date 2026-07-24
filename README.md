@@ -2,8 +2,10 @@
 
 [![Release](https://img.shields.io/github/v/release/HSEV/retouch-releases?label=derni%C3%A8re%20version)](https://github.com/HSEV/retouch-releases/releases/latest)
 [![Downloads](https://img.shields.io/github/downloads/HSEV/retouch-releases/total)](https://github.com/HSEV/retouch-releases/releases)
-[![Platform](https://img.shields.io/badge/plateforme-windows-black)](https://github.com/HSEV/retouch-releases/releases/latest)
-[![Discord](https://img.shields.io/discord/1528217755474591835?label=discord&logo=discord&color=5865F2)](https://discord.gg/U63MHffDQX)
+[![Windows](https://img.shields.io/badge/Windows-blue)](https://github.com/HSEV/retouch-releases/releases/latest)
+[![macOS](https://img.shields.io/badge/macOS-purple)](https://github.com/HSEV/retouch-releases/releases/v1.2.1)
+[![Discord](https://img.shields.io/discord/1528217755474591835?label=discord&logo=discord)](https://discord.gg/U63MHffDQX)
+
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fretouch.blog&label=retouch.blog)](https://retouch.blog)
 
 
